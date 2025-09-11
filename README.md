@@ -78,8 +78,7 @@ const Ahmed = {
   <tr>
     <td width="50%">
       <h3 align="center">🎮 Tic-Tac-Toe AI Game</h3>
-      <div align="center">  
-        <br>
+      <div align="center"> 
         <br>
         <p>
           <a href="https://ahm3d0x.github.io/-Tic-Tac-Toe-game/" target="_blank">
@@ -95,10 +94,6 @@ const Ahmed = {
     <td width="50%">
       <h3 align="center">🤖 SPARK AI Chatbot</h3>
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://raw.githubusercontent.com/Ahm3d0x/Ahm3d0x/main/src/SPARK%20AI%20Chatbot.jpg" alt="SPARK AI Chatbot" width="400"/>
-        </a>
-        <br>
         <br>
         <p>
           <a href="#" target="_blank">
@@ -117,7 +112,6 @@ const Ahmed = {
       <h3 align="center">🖥️ Office Management System</h3>
       <div align="center">
         <br>
-        <br>
         <p>
           <a href="https://github.com/Ahm3d0x/-Office-System-Management-" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
@@ -129,7 +123,6 @@ const Ahmed = {
     <td width="50%">
       <h3 align="center">🛒 BIG STORE E-Commerce</h3>
       <div align="center">
-        <br>
         <br>
         <p>
           <a href="https://ahm3d0x.github.io/BIG-STORE/" target="_blank">
