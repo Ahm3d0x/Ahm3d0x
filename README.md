@@ -79,9 +79,6 @@ const Ahmed = {
     <td width="50%">
       <h3 align="center">🎮 Tic-Tac-Toe AI Game</h3>
       <div align="center">  
-        <a href="https://ahm3d0x.github.io/-Tic-Tac-Toe-game/" target="_blank">
-          <img src="https://raw.githubusercontent.com/Ahm3d0x/Ahm3d0x/main/src/Tic-Tac-Toe-game.jpg" alt="Tic Tac Toe Game" width="400"/>
-        </a>
         <br>
         <br>
         <p>
@@ -119,9 +116,6 @@ const Ahmed = {
     <td width="50%">
       <h3 align="center">🖥️ Office Management System</h3>
       <div align="center">
-        <a href="https://github.com/Ahm3d0x/-Office-System-Management-" target="_blank">
-          <img src="https://raw.githubusercontent.com/Ahm3d0x/Ahm3d0x/main/src/Office-System-Management.png" alt="Office System" width="400"/>
-        </a>
         <br>
         <br>
         <p>
@@ -135,9 +129,6 @@ const Ahmed = {
     <td width="50%">
       <h3 align="center">🛒 BIG STORE E-Commerce</h3>
       <div align="center">
-        <a href="https://ahm3d0x.github.io/BIG-STORE/" target="_blank">
-          <img src="https://raw.githubusercontent.com/Ahm3d0x/Ahm3d0x/main/src/BigStore.jpg" alt="E-Commerce" width="400"/>
-        </a>
         <br>
         <br>
         <p>
