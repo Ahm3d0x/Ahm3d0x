@@ -138,7 +138,7 @@ const Ahmed = {
       <h3 align="center">🛒 BIG STORE E-Commerce</h3>
       <div align="center">
         <a href="https://ahm3d0x.github.io/BIG-STORE/" target="_blank">
-          <img src="https://raw.githubusercontent.com/Ahm3d0x/Ahm3d0x/main/src/BigStore.jpg" alt="E-Commerce" width="400"/>
+          <img src="https://via.placeholder.com/400x200/1a1a1a/f39c12?text=BIG+STORE+E-Commerce" alt="E-Commerce" width="400"/>
         </a>
         <br>
         <br>
